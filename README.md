@@ -42,9 +42,9 @@ A modern MERN stack e-commerce platform with user authentication, product manage
 
 ## 📊 GitHub Stats
 
-![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=prateek-1203&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateek-1203&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=prateek-1203&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=prateek-1203&theme=shadow_blue&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prateek-1203&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
